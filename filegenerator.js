@@ -1,6 +1,6 @@
 function fileGenerator(response) {
     var content = `# ${response.title}
-    ##### ${response.logo}[${response.userName}](${response.GitHub}) [Email Me](${response.email}) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
+    ##### ${response.logo}[${response.userName}](${response.GitHub}) [Email Me](${response.email}) [Deployed Application]
     #### ReadMeGenerator© 2020 All Rights Reserved.  ${response.license} All material must be cited or credited, when using material (free to use).
     
     ## Table of Contents
@@ -15,10 +15,12 @@ function fileGenerator(response) {
     ###### [Back to Table of Contents](#Table-of-Contents)
     ${response.description}
     
-    Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
+    As a developer, your goal should be designing NEW experiences that makes people's lives simple. Get coding, I hope this repository helps you along your development. -    [Amon Rashidi]
     
-    ## User Story
-    ### As the Quiz Administrator
+    ##USER-STORY
+    AS A developer
+    I WANT a README generator
+    SO THAT I can quickly create a professional README for a new project
     ###### [Back to Table of Contents](#Table-of-Contents)
     1.   I a command-line application that accepts user input.
     2.   I want to be prompted for information about my application repository.
@@ -29,18 +31,12 @@ function fileGenerator(response) {
     7.   I want to enter my GitHub username; ant then this is added to the section of the README entitled Questions, with a link to my GitHub profile.
     8.   I want to enter my email address; and then this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions.
     9.   I want to click on the links in the Table of Contents; and then, I am taken to the corresponding section of the README.
-    
     ### Contribution Guidelines
     ###### [Back to Table of Contents](#Table-of-Contents)
     ${response.contribute}
     
     
-    ## Test Instructions
-    ###### [Back to Table of Contents](#Table-of-Contents)
-    1.  ${response.test}
-    2.  ${response.test2}
-    3.  ${response.test3}
-    
+ 
     
     ## Overview: What We Accomplished!
     ### Workflow [Back to Table of Contents](#Table-of-Contents)
@@ -49,7 +45,7 @@ function fileGenerator(response) {
     
     ### Screenshots (Building this application)
     ###### [Back to Table of Contents](#Table-of-Contents)
-    #### Demo I createad ![script.js](${response.scriptjs})
+    #### Demo I createad ![script.js](${response.appjs})
     
     #### Demo I createad ![fileGenerator.js](${response.fileGnerator})
     
@@ -69,7 +65,7 @@ function fileGenerator(response) {
     ## License
     ${response.license}
     
-    Please feel free to fork and even collaborate with me on this awesome [repository](https://github.com/supercodingninja/CodeQuiz ).  Thank you for viewing! - Frederick Thomas, Super Coding Ninja™ [2014-Present](https://supercodingninja.github.io/) All Rights Reserved
+
     
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
     

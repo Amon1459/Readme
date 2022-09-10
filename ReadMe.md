@@ -1,5 +1,5 @@
-# 
-    ##### []() [Email Me]() [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
+# README.md
+    ##### undefined[Amon1459](undefined) [Email Me](Amon.rashidi@yahoo.com) [Deployed Application]
     #### ReadMeGenerator© 2020 All Rights Reserved.  APACHE 2.O All material must be cited or credited, when using material (free to use).
     
     ## Table of Contents
@@ -12,12 +12,14 @@
     
     # Repository Description
     ###### [Back to Table of Contents](#Table-of-Contents)
+    undefined
     
+    As a developer, your goal should be designing NEW experiences that makes people's lives simple. Get coding, I hope this repository helps you along your development. -    [Amon Rashidi]
     
-    Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
-    
-    ## User Story
-    ### As the Quiz Administrator
+    ##USER-STORY
+    AS A developer
+    I WANT a README generator
+    SO THAT I can quickly create a professional README for a new project
     ###### [Back to Table of Contents](#Table-of-Contents)
     1.   I a command-line application that accepts user input.
     2.   I want to be prompted for information about my application repository.
@@ -28,27 +30,21 @@
     7.   I want to enter my GitHub username; ant then this is added to the section of the README entitled Questions, with a link to my GitHub profile.
     8.   I want to enter my email address; and then this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions.
     9.   I want to click on the links in the Table of Contents; and then, I am taken to the corresponding section of the README.
-    
     ### Contribution Guidelines
     ###### [Back to Table of Contents](#Table-of-Contents)
+    undefined
     
     
-    
-    ## Test Instructions
-    ###### [Back to Table of Contents](#Table-of-Contents)
-    1.  
-    2.  
-    3.  
-    
+ 
     
     ## Overview: What We Accomplished!
     ### Workflow [Back to Table of Contents](#Table-of-Contents)
-    
+    undefined
     
     
     ### Screenshots (Building this application)
     ###### [Back to Table of Contents](#Table-of-Contents)
-    #### Demo I createad ![script.js]()
+    #### Demo I createad ![script.js](undefined)
     
     #### Demo I createad ![fileGenerator.js]()
     
@@ -63,12 +59,12 @@
     
     ## Repositiory End-Goal Criterea
     ###### [Back to Table of Contents](#Table-of-Contents)
-    
+    To generate a professional Readme for a user. 
     
     ## License
     APACHE 2.O
     
-    Please feel free to fork and even collaborate with me on this awesome [repository](https://github.com/supercodingninja/CodeQuiz ).  Thank you for viewing! - Frederick Thomas, Super Coding Ninja™ [2014-Present](https://supercodingninja.github.io/) All Rights Reserved
+
     
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
     
