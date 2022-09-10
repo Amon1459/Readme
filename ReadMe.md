@@ -1,6 +1,6 @@
-# README.md
-    ##### undefined[Amon1459](undefined) [Email Me](Amon.rashidi@yahoo.com) [Deployed Application]
-    #### ReadMeGenerator© 2020 All Rights Reserved.  APACHE 2.O All material must be cited or credited, when using material (free to use).
+# 
+    ##### undefined[](undefined) [Email Me]() [Deployed Application]
+     APACHE 2.O All material must be cited or credited, when using material (free to use).
     
     ## Table of Contents
     * [Repository Description](#Repository-Description)
@@ -59,19 +59,13 @@
     
     ## Repositiory End-Goal Criterea
     ###### [Back to Table of Contents](#Table-of-Contents)
-    To generate a professional Readme for a user. 
     
-    ## License
+    
+   ####license
     APACHE 2.O
-    
-<<<<<<< HEAD
-
     
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
     
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
     
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-=======
-   
->>>>>>> 8a1cd7c3a3c338a485a5a8913729e6c9ec397951
